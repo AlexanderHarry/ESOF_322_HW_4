@@ -1,0 +1,9 @@
+a) Line 6 : if (i < 1)
+ create a test where i = 1 
+
+b) Line 6 : if (i == 1)
+ create a test where i = 0
+
+
+C) Line 12 : fib2 = fib
+ create a test where fib1 != 0
